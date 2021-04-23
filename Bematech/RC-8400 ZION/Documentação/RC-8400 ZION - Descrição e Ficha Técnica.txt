@@ -1,0 +1,32 @@
+RC-8400 ZION
+
+DESCRIÇÃO:
+NOVA IDENTIDADE, MAS COM A MESMA PERSONALIDADE!
+Com novo gabinete moderno e compacto, o RC-8400 ZION é um computador desenvolvido para Pontos de Venda. Com baixo consumo de energia, este computador com processador Intel Dual Core antende a necessidade das aplicações de Automação Comercial tanto no sentido de performance quanto na disponibilidade de interfaces.
+
+* Ideal para PDV;
+* Baixo consumo de Energia;
+* Compacto, otimiza o espaço no PDV;
+* Gabinete com furação VESA para simplificar a fixação;
+* Grande disponibilidade de Iterfaces para os periféricos de Automação Comercial;
+* Compatível com teclados programáveis.
+
+
+
+
+FICHA TÉCNICA 
+
+SISTEMA OPERACIONAL		Windows® 10 IoT ou Sem Sistema Operacional*
+PLACA-MÃE			Asus J-1800I C/BR
+PROCESSADOR			Intel® Celeron® dual-core J1800, 2.41GHz
+MEMÓRIA				4GB DDR3L 1333 MHz (Suporta até 8GB) - 2 Slots SO-DIMM,
+ARMAZENAMENTO			SSD 120G ou HD 500GB
+REDE				Realtek® RTL8111G, 1 x Gigabit LAN  10/100/1000 Mb/s
+ÁUDIO				Realtek® ALC887-VD 8-Channel High Definition Audio CODEC
+INTERFACES PAINEL TRASEIRO	2 Portas Seriais, 1x PS2 (mouse ou teclado), 1x porta USB 3.0, 4x portas USB 2.0, 1x HDMI, 1x D-Sub (VGA), 1x RJ45 (LAN), Audio: 1x Line In, 1x Line Out e 1x Mic
+INTERFACES FRONTAIS		2x portas USB 2.0, 1x LED indicativo de Power, 1x LED indicativo de Hard Disk, 1x Botão Liga/Desliga
+SLOTS DE EXPANSÃO (PLACA-MÃE)	1 x PCIe 2.0 x1, 1 x mini-PCIe
+GABINETE			Padrão Slim - Form Factor: Mini-ITX com furação VESA, LED indicativo de energia e Hard Disk, Dimensões: 200mm (A) x 80mm (L) x 230mm (P), Massa aproximada: 2,0Kg
+PERIFÉRICOS			Acompanha Teclado ABNT2 e Mouse 3 Botões
+FONTE				Tipo: Externa; Entrada: 100-240V / 1.5A Saída: 12V / 5A
+GARANTIA			1 Ano

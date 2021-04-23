@@ -1,0 +1,19 @@
+SB-1015 I5
+
+SOLUÇÃO MODERNA E COM EXCELENTES RECURSOS
+A solução completa para o seu pdv, agora na versão i5:
+
+* Praticidade de uso: tela touchscreen capacitiva de múltiplo toque;
+* Configurações de processamento e interfaces de conectividade personalizáveis;
+* Mais transparência nas operações de caixa: dispõe de 3 opções de monitor para o cliente acompanhar os registros de compras;
+* Possui opção com leitor MSR e Biométrico para agilizar ainda mais as operações de caixa.
+
+
+FICHA TÉCNICA
+
+SISTEMAS OPERACIONAIS		Sem Sistema Operacional ou Windows 10 IoT Interprise LTSB
+ESPECIFICAÇÕES	CPU: 		INTEL CORE i5 3XXX Dual-Core 1.7GHz Chipset: I/O: Intel HM65 ITE8786E Memória: 4GB DDR3L 1066/1333 1.35V ou superior Máx. capacidade de memória até 32GB Rede: Chip Realtek® RTL8111F PCI Express Gigabit LAN HDD: HDD 320GB SATA 2.5in ou superior; ou, SSD 120GB SATA 2.5in ou superior Áudio: ALC662 Áudio CODEC
+ALIMENTAÇÃO DO PRODUTO		Fonte externa: 12V, conectado a uma tomada de 110V/220V, 50/60Hz
+INTERFACES			6x Portas USB 2.0 + 1x USB 2.0 Lateral para Display ou MSR 1 Porta VGA (DB-15) 2x Portas seriais (DB-09) 1x Conector de Áudio
+DISPLAY				Painel LCD: 15" LED-backlit TFT display, XGA 1024 x 768 Touch Screen: Tipo Capacitivo
+AMBIENTE:			Operação: Temperatura: 0º C a 40º C Umidade Relativa: 8% a 80% (não condensado)

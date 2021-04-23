@@ -1,0 +1,29 @@
+SB-1015
+
+SOLUÇÃO ECONÔMICA COM EXCELENTE DESEMPENHO
+Aliando design e tecnologia, este produto oferece uma solução moderna e com excelentes recursos, com acessórios que proporcionam mais transparência e agilidade para o seu PDV.
+
+Praticidade de uso: tela touchscreen capacitiva de múltiplo toque;
+Configurações de processamento e interfaces de conectividade personalizáveis;
+Mais transparência nas operações de caixa: dispõe de 3 opções de monitor para o cliente acompanhar os registros de compras;
+Possui opção com leitor MSR e Biométrico para agilizar ainda mais as operações de caixa.
+
+
+FICHA TECNICA
+
+DESCRIÇÃO			COMPUTADOR SB-1015 J1900 4GB
+PROCESSADOR			Intel® Celeron® Quad-Core 2.0 GHz IO chipset:  Fintek F71869
+CONJUNTO DE INSTRUÇÕES		32 ou 64 bits
+MEMÓRIA RAM			4GB DDR3L 1333 SODIMM up to 8GB (1 slot)
+ARMAZENAMENTO			320GB SATA 2.5in Hard Disk Drive ou SSD 120GB (consulte disponibilidade)
+ÁUDIO				ALC887 Audio CODEC, HD Audio CODEC
+TELA				Tela de 15” LED-backlight TFT, 1024x768, capacitiva com controle do touch por USB
+PLACA DE REDE			Realtek® RTL8111EL 10/100/1000 Mbps PCI Express
+SISTEMA OPERACIONAL		1) Versão sem sistema operacional (suporta Windows 7,8,8.1,10 e Linux Ubuntu 12.04.5 ou superior); e 2) Versão com Windows IoT
+INTERFACES			5 USB 2.0, 1 USB 3.0, 1 saída VGA, 3 seriais, 1 ethernet, 1 line out
+DIMENSÕES			36.4cm x 32.6cm x 23cm
+DIMENSÕES DA TELA (SEM PEDESTAL)36,4x28x8,5cm
+DIMENSÕES DA BASE DO PEDESTAL	22x22cm
+PESO				5.91Kg
+CONTEÚDO DA EMBALAGEM		Computador Touch SB-1015, fonte de alimentação, cabo de alimentação, Quick Start
+GARANTIA			12 meses ou garantia estendida
